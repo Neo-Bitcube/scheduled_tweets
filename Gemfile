@@ -63,4 +63,4 @@ gem "omniauth", "~> 2.1"
 
 gem "x", "~> 0.14.1"
 
-gem "sidekiq", "~> 6.5.11"
+gem "sidekiq", "~> 7.3.2"
